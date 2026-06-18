@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# CI/CD and Infrastructure
+Jenkinsfile
+deploy.yaml
+README.md
+
+# Local environment
+.env
